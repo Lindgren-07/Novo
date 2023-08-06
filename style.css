@@ -10,10 +10,11 @@ section{
     align-items: center;
     background-color: aliceblue;
     padding: 10px;
+    justify-content: space-evenly;
 }
 div{
     width: 25%;
-    height: 100px;
+    height: 120px;
     background-color: black;
     color: indigo;
 }
